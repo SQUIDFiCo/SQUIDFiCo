@@ -1,11 +1,9 @@
-# Get Started
+---
+description: Multi-chain Investment Protocol
+---
 
-## Try it out
+# 🤩 SQUID Finance Whitepaper 2.0
 
-Use this area to play with the editor and get to grips with some of the content blocks. Have a play then move on to the next page!
+An intergalactic approach to investing and developing DeFi Technology through Cross-chain implementation,  eCommerce and novel NFT Protocol.
 
-
-
-## Moving on
-
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+Multi-chain Deflationary Rewards Token

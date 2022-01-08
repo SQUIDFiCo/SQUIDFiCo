@@ -1,23 +1,11 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [🤩 SQUID Finance Whitepaper 2.0](README.md)
+* [Introduction](introduction.md)
+* [The New Market](the-new-market.md)
 
-## The Basics
+## Missions
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
-
-## Publishing
-
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Mission 1 - Multi-Chain Implementation](missions/mission-1-multi-chain-implementation.md)
+* [Mission 2 - SQUIDverse Metaverse](missions/mission-2-squidverse-metaverse.md)
+* [Mission 3 - SQUID Social Media Platform Establishment](missions/mission-3-squid-social-media-platform-establishment.md)
