@@ -1,6 +1,6 @@
 # The Comet Fund
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 The star of $SQUID token is the Comet Fund which is a multilayer pooled equity fund. This unique feature will turn transaction volume into returns for our investors through direct reinvestment and static rewards.
 

@@ -2,7 +2,6 @@
 
 * [🦑 SQUID Finance Whitepaper 2.0](README.md)
 * [Introduction](introduction.md)
-* [SQUID Token](squid-token.md)
 * [The New Market](the-new-market.md)
 
 ## Missions
@@ -16,13 +15,23 @@
 * [Mission 7 - Advance De-Fi Technology through R\&D](missions/mission-7-advance-de-fi-technology-through-r-and-d.md)
 * [Mission 8 - Establish the SQUID Proof of Stake Blockchain](missions/mission-8-establish-the-squid-proof-of-stake-blockchain.md)
 * [Mission 9 - Ticketing via NFTs](missions/mission-9-ticketing-via-nfts.md)
-* [Page 1](missions/page-1.md)
+
+## The SQUID Token
+
+* [SQUID Token](the-squid-token/squid-token/README.md)
+  * [Tokenomics](the-squid-token/squid-token/tokenomics.md)
+* [Binance Smart Chain](the-squid-token/binance-smart-chain.md)
+* [ERC-20 Smart Chain](the-squid-token/erc-20-smart-chain.md)
+* [Polygon Smart Chain](the-squid-token/polygon-smart-chain.md)
+* [Fantom Network](the-squid-token/fantom-network.md)
+* [AVAX Network](the-squid-token/avax-network.md)
 
 ## The SQUID DAO
 
 * [Decentralized Autonomous Organization](the-squid-dao/decentralized-autonomous-organization.md)
 * [The Comet Fund](the-squid-dao/the-comet-fund.md)
 * [Investment Models](the-squid-dao/investment-models.md)
+* [SQUIDswap](the-squid-dao/squidswap.md)
 
 ## The SQUIDverse Metaverse
 
